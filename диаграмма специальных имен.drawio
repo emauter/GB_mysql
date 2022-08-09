@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T16:15:06.076Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XYlns1EEXqkI4D1YSknj" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-09T17:48:09.509Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="r6wmB41OcQDzW7ZbmDD2" version="20.2.3" type="github" pages="2">
   <diagram id="uOLnhWXbvwbu3YFsVj8e" name="Страница 1">
-    <mxGraphModel dx="1469" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,8 +126,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="poS7j5ykNW21V9rGCTSn-1" value="диаграмма&amp;nbsp; библиотека специальных имен высокоуровневая архитектура&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="poS7j5ykNW21V9rGCTSn-1" value="диаграмма&amp;nbsp; &quot;библиотека специальных имен&quot; высокоуровневая архитектура" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="390" y="890" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sejF_Mk4EfJU3O1FlYMp-1" value="внешний сервис" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sejF_Mk4EfJU3O1FlYMp-2" value="сервисы UI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sejF_Mk4EfJU3O1FlYMp-3" value="сервис перспективной разработки" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
