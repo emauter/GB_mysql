@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-08-11T18:47:35.233Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.3" etag="hCIUxH4htL3ztHtzQ8KR" type="github"><diagram id="TUe_8FtLySUKbP1dFAhF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-11T20:02:01.085Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="wEPicpMTQsu_8oQINWr_" version="20.2.3" type="github">
+  <diagram id="TUe_8FtLySUKbP1dFAhF" name="Страница 1">
+    <mxGraphModel dx="1102" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FGjbquU8CtR7feWJE-FR-3" value="&lt;br&gt;&lt;div&gt;CREATE TABLE `project-button`.Каталог_products (&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;product_id INT auto_increment NOT NULL,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;product_name varchar(100) NULL,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;product_maker varchar(50) NULL,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;product_prise FLOAT NULL,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;CONSTRAINT Каталог_products_PK PRIMARY KEY (product_id)&lt;/div&gt;)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="70" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="FGjbquU8CtR7feWJE-FR-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="360" as="sourcePoint" />
+            <mxPoint x="460" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FGjbquU8CtR7feWJE-FR-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="360" as="sourcePoint" />
+            <mxPoint x="730" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FGjbquU8CtR7feWJE-FR-33" value="каталог_products" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FGjbquU8CtR7feWJE-FR-35" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="FGjbquU8CtR7feWJE-FR-33">
+          <mxGeometry y="20" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FGjbquU8CtR7feWJE-FR-10" value="PK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="FGjbquU8CtR7feWJE-FR-33">
+          <mxGeometry x="-7" y="20" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FGjbquU8CtR7feWJE-FR-11" value="&lt;br&gt;product_id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="FGjbquU8CtR7feWJE-FR-33">
+          <mxGeometry x="33" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FGjbquU8CtR7feWJE-FR-12" value="&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;product_name&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;product_maker&lt;br&gt;product_prise&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="FGjbquU8CtR7feWJE-FR-33">
+          <mxGeometry x="33" y="50" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FGjbquU8CtR7feWJE-FR-36" value="каталог_products" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FGjbquU8CtR7feWJE-FR-37" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="FGjbquU8CtR7feWJE-FR-36">
+          <mxGeometry y="20" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FGjbquU8CtR7feWJE-FR-41" value="каталог_products" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="730" y="260" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FGjbquU8CtR7feWJE-FR-42" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="FGjbquU8CtR7feWJE-FR-41">
+          <mxGeometry y="20" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FGjbquU8CtR7feWJE-FR-31" value="product_name varchar(100)&lt;br&gt;product_maker varchar(50)&amp;nbsp;&lt;br&gt;product_prise FLOAT&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="FGjbquU8CtR7feWJE-FR-41">
+          <mxGeometry x="20" y="65" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FGjbquU8CtR7feWJE-FR-27" value="product_id INT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="FGjbquU8CtR7feWJE-FR-41">
+          <mxGeometry x="47" y="20" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FGjbquU8CtR7feWJE-FR-30" value="PK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="FGjbquU8CtR7feWJE-FR-41">
+          <mxGeometry x="-10" y="20" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FGjbquU8CtR7feWJE-FR-43" value="структура данных сервис каталога" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="5" width="220" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
