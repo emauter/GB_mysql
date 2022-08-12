@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-08-11T20:02:01.085Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="wEPicpMTQsu_8oQINWr_" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-12T19:11:01.485Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="a4PUdl3PPICY-ww9JKat" version="20.2.3" type="github">
   <diagram id="TUe_8FtLySUKbP1dFAhF" name="Страница 1">
     <mxGraphModel dx="1102" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FGjbquU8CtR7feWJE-FR-3" value="&lt;br&gt;&lt;div&gt;CREATE TABLE `project-button`.Каталог_products (&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;product_id INT auto_increment NOT NULL,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;product_name varchar(100) NULL,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;product_maker varchar(50) NULL,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;product_prise FLOAT NULL,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;CONSTRAINT Каталог_products_PK PRIMARY KEY (product_id)&lt;/div&gt;)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FGjbquU8CtR7feWJE-FR-3" value="&lt;br&gt;&lt;div&gt;CREATE TABLE `project-button`.users(&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;id bigint unsigned&lt;/div&gt;&lt;div&gt;phohe INT auto_increment NOT NULL,&lt;/div&gt;&lt;div&gt;name varchar(100) NULL,&lt;/div&gt;&lt;div&gt;description varchar(50) NULL,&lt;/div&gt;&lt;div&gt;&amp;nbsp;FLOAT NULL,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;CONSTRAINT Каталог_products_PK PRIMARY KEY (product_id)&lt;/div&gt;)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="70" width="260" height="150" as="geometry" />
         </mxCell>
         <mxCell id="FGjbquU8CtR7feWJE-FR-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
@@ -57,6 +57,12 @@
         </mxCell>
         <mxCell id="FGjbquU8CtR7feWJE-FR-43" value="структура данных сервис каталога" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="5" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FGjbquU8CtR7feWJE-FR-44" value="phone&#xa;description&#xa;id&#xa;name&#xa;is_operator&#xa;mail&#xa;is_admin" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="80" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FGjbquU8CtR7feWJE-FR-45" value="users" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="70" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
