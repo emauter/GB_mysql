@@ -1,26 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-08-13T23:39:44.363Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Gza7J8XkQvzKiVt2_It7" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-14T09:52:24.533Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Fd1O_2kCg3K48b4AJCrk" version="20.2.3" type="github" pages="2">
   <diagram id="TUe_8FtLySUKbP1dFAhF" name="Страница 1">
-    <mxGraphModel dx="1102" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FGjbquU8CtR7feWJE-FR-3" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CREATE TABLE `project-button`.users(&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;id bigint unsigned&lt;/div&gt;&lt;div&gt;phohe INT auto_increment NOT NULL,&lt;/div&gt;&lt;div&gt;name varchar(100) NULL,&lt;/div&gt;&lt;div&gt;description varchar(50) NULL,&lt;/div&gt;&lt;div&gt;&amp;nbsp;FLOAT NULL,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;CONSTRAINT Каталог_products_PK PRIMARY KEY (product_id)&lt;/div&gt;)" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="50" width="260" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="FGjbquU8CtR7feWJE-FR-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="460" as="sourcePoint" />
-            <mxPoint x="460" y="460" as="targetPoint" />
+            <mxPoint x="400" y="540" as="sourcePoint" />
+            <mxPoint x="460" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FGjbquU8CtR7feWJE-FR-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="460" as="sourcePoint" />
-            <mxPoint x="730" y="460" as="targetPoint" />
+            <mxPoint x="660" y="540" as="sourcePoint" />
+            <mxPoint x="730" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FGjbquU8CtR7feWJE-FR-33" value="каталог" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="460" y="360" width="200" height="200" as="geometry" />
+          <mxGeometry x="460" y="440" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="FGjbquU8CtR7feWJE-FR-35" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="FGjbquU8CtR7feWJE-FR-33" vertex="1">
           <mxGeometry y="20" width="200" height="180" as="geometry" />
@@ -28,26 +25,26 @@
         <mxCell id="FGjbquU8CtR7feWJE-FR-10" value="PK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="FGjbquU8CtR7feWJE-FR-33" vertex="1">
           <mxGeometry x="-7" y="20" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FGjbquU8CtR7feWJE-FR-11" value="&lt;br&gt;id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="FGjbquU8CtR7feWJE-FR-33" vertex="1">
-          <mxGeometry x="58" width="30" height="40" as="geometry" />
+        <mxCell id="FGjbquU8CtR7feWJE-FR-11" value="&lt;br&gt;medID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="FGjbquU8CtR7feWJE-FR-33" vertex="1">
+          <mxGeometry x="43" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FGjbquU8CtR7feWJE-FR-36" value="каталог" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="200" y="360" width="200" height="200" as="geometry" />
+          <mxGeometry x="200" y="440" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="FGjbquU8CtR7feWJE-FR-37" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="FGjbquU8CtR7feWJE-FR-36" vertex="1">
           <mxGeometry y="20" width="200" height="180" as="geometry" />
         </mxCell>
         <mxCell id="FGjbquU8CtR7feWJE-FR-41" value="каталог" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="730" y="360" width="200" height="200" as="geometry" />
+          <mxGeometry x="730" y="440" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="FGjbquU8CtR7feWJE-FR-42" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="FGjbquU8CtR7feWJE-FR-41" vertex="1">
           <mxGeometry y="20" width="200" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="FGjbquU8CtR7feWJE-FR-31" value="name varchar(100)&lt;br&gt;type varchar(50)&amp;nbsp;&lt;br&gt;prise FLOAT&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" parent="FGjbquU8CtR7feWJE-FR-41" vertex="1">
+        <mxCell id="FGjbquU8CtR7feWJE-FR-31" value="name varchar(100)&lt;br&gt;master varchar(50)&amp;nbsp;&lt;br&gt;prise FLOAT&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" parent="FGjbquU8CtR7feWJE-FR-41" vertex="1">
           <mxGeometry x="20" y="65" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FGjbquU8CtR7feWJE-FR-27" value="id INT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="FGjbquU8CtR7feWJE-FR-41" vertex="1">
-          <mxGeometry x="67" y="20" width="60" height="30" as="geometry" />
+        <mxCell id="FGjbquU8CtR7feWJE-FR-27" value="medID INT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="FGjbquU8CtR7feWJE-FR-41" vertex="1">
+          <mxGeometry x="57" y="20" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FGjbquU8CtR7feWJE-FR-30" value="PK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="FGjbquU8CtR7feWJE-FR-41" vertex="1">
           <mxGeometry x="-10" y="20" width="40" height="30" as="geometry" />
@@ -56,10 +53,10 @@
           <mxGeometry x="310" y="5" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b37VyTv0LnOgqIAbmcbs-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="270" width="770" height="310" as="geometry" />
+          <mxGeometry x="180" y="350" width="770" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="FGjbquU8CtR7feWJE-FR-12" value="&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;name&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;type&lt;br&gt;prise&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="b37VyTv0LnOgqIAbmcbs-1" vertex="1">
-          <mxGeometry x="300" y="140" width="50" height="70" as="geometry" />
+        <mxCell id="FGjbquU8CtR7feWJE-FR-12" value="&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;name&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;master&lt;br&gt;prise&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="b37VyTv0LnOgqIAbmcbs-1" vertex="1">
+          <mxGeometry x="295" y="140" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="b37VyTv0LnOgqIAbmcbs-2" value="уровни структуры данных" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="b37VyTv0LnOgqIAbmcbs-1">
           <mxGeometry x="280" y="20" width="200" height="30" as="geometry" />
@@ -72,6 +69,15 @@
         </mxCell>
         <mxCell id="Reo0rH-wRY7_WrpTDoYO-3" value="физический" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="b37VyTv0LnOgqIAbmcbs-1">
           <mxGeometry x="607" y="50" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1BooxGmMZiRwdSYPzkvI-2" value="CREATE TABLE `project-button`.`catalog` (&lt;br&gt;	medID INT auto_increment NOT NULL,&lt;br&gt;	name varchar(100) NULL,&lt;br&gt;	master varchar(50) NULL,&lt;br&gt;	prise FLOAT NULL,&lt;br&gt;	CONSTRAINT catalog_PK PRIMARY KEY (medID)&lt;br&gt;);" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="310" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1BooxGmMZiRwdSYPzkvI-3" value="INSERT INTO `project-button`.`catalog` (name,master)&#xa;	VALUES (&#39;хох&#39;,&#39;ем&#39;);" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="190" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1BooxGmMZiRwdSYPzkvI-4" value="SELECT * FROM `project-button`.`catalog` WHERE master != &#39;bot&#39;;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="250" width="390" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
