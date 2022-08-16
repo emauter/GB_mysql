@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-10T08:42:56.482Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="NOo6syakc20k2RhfJnQ1" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-16T12:24:27.769Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="dJqB07GOFlDsZ27_QroV" version="20.2.3" type="github" pages="2">
   <diagram id="uOLnhWXbvwbu3YFsVj8e" name="Страница 1">
-    <mxGraphModel dx="2204" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="KiBXUwX40HchvvAshSLg-4" value="система управления исполнения запроса" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KiBXUwX40HchvvAshSLg-5" value="сервис запросов" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="KiBXUwX40HchvvAshSLg-5" value="сервис запросов&lt;br&gt;(корзина)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="570" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KiBXUwX40HchvvAshSLg-6" value="сервис оплаты" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -138,12 +138,12 @@
         <mxCell id="sejF_Mk4EfJU3O1FlYMp-3" value="сервис перспективной разработки" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="40" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a0_3FXgPY6l11k68r1m9-2" value="проект бд &quot;библиотека &#xa;специальных имён&quot;" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="a0_3FXgPY6l11k68r1m9-2" value="проект бд &quot;библиотека &#xa;специальных имён&quot;" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="30" y="1470" width="200" height="250" as="geometry">
             <mxRectangle x="40" y="1310" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LjXbcE_WTVgvDwUwSeUg-1" value="Изучать данные библиотеки&lt;br&gt;Использовать каталог&lt;br&gt;Оформлять запрос&lt;br&gt;Видеть список запросов&lt;br&gt;Комментировать запрос&lt;br&gt;Оценить исполнение запроса&lt;br&gt;Оплатить исполнение запроса" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="a0_3FXgPY6l11k68r1m9-2">
+        <mxCell id="LjXbcE_WTVgvDwUwSeUg-1" value="Изучать данные библиотеки&lt;br&gt;Использовать каталог&lt;br&gt;Оформлять запрос&lt;br&gt;Видеть список запросов&lt;br&gt;Комментировать запрос&lt;br&gt;Оценить исполнение запроса&lt;br&gt;Оплатить исполнение запроса" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="a0_3FXgPY6l11k68r1m9-2" vertex="1">
           <mxGeometry x="10" y="45" width="180" height="165" as="geometry" />
         </mxCell>
       </root>
