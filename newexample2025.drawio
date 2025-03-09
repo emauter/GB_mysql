@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1112" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -694,6 +694,91 @@
         </mxCell>
         <mxCell id="IbtSqxL6bFmEVW8fgQSt-15" value="оплата получена" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2lrMB3Kka_p6jvfE5tGJ-1">
           <mxGeometry x="1035" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6D9zyEUt4fdwe-rT6STG" name="Страница — 6">
+    <mxGraphModel dx="1112" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="69-5I1SAsDv9cSTQ3z-1-1" value="диаграмма декомпозицииA1&lt;div&gt;третьего уровня&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="30" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nl70A0yL1CxUYbz_7InV-4" value="привлечь&lt;div&gt;клиента&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Nl70A0yL1CxUYbz_7InV-5" value="подготовить сделку" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="230" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Nl70A0yL1CxUYbz_7InV-6" value="А1.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nl70A0yL1CxUYbz_7InV-7" value="А1.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nl70A0yL1CxUYbz_7InV-8" value="заключить сделку" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="350" width="168" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Nl70A0yL1CxUYbz_7InV-9" value="получить предоплату" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="475" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Nl70A0yL1CxUYbz_7InV-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="600" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Nl70A0yL1CxUYbz_7InV-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="973" y="620" as="sourcePoint" />
+            <mxPoint x="1023" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nl70A0yL1CxUYbz_7InV-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="180" as="sourcePoint" />
+            <mxPoint x="260" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="180" />
+              <mxPoint x="250" y="180" />
+              <mxPoint x="250" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nl70A0yL1CxUYbz_7InV-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="290" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="290" />
+              <mxPoint x="430" y="290" />
+              <mxPoint x="430" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nl70A0yL1CxUYbz_7InV-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="609" y="420" as="sourcePoint" />
+            <mxPoint x="629" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="609" y="420" />
+              <mxPoint x="619" y="420" />
+              <mxPoint x="619" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nl70A0yL1CxUYbz_7InV-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="540" as="sourcePoint" />
+            <mxPoint x="810" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="540" />
+              <mxPoint x="800" y="540" />
+              <mxPoint x="800" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nl70A0yL1CxUYbz_7InV-23" value="маркетинг" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="80" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
