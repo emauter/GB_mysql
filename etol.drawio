@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="5">
   <diagram name="Страница — 1" id="QYm5ZVAXooTr9aeC9R39">
     <mxGraphModel dx="1112" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -221,7 +221,81 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Bcoj-QzdRoqfnLjVLFNB" name="Страница — 4">
+  <diagram name="Страница — 4" id="07tLV1_IeC_9-MREQ34M">
+    <mxGraphModel dx="1112" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="5bJ-HDxLkStqOs_OSQSf-0" />
+        <mxCell id="5bJ-HDxLkStqOs_OSQSf-1" parent="5bJ-HDxLkStqOs_OSQSf-0" />
+        <mxCell id="5bJ-HDxLkStqOs_OSQSf-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="5bJ-HDxLkStqOs_OSQSf-1">
+          <mxGeometry x="430" y="160" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="5bJ-HDxLkStqOs_OSQSf-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.007;entryY=0.679;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="5bJ-HDxLkStqOs_OSQSf-1" target="5bJ-HDxLkStqOs_OSQSf-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="323" as="sourcePoint" />
+            <mxPoint x="390" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5bJ-HDxLkStqOs_OSQSf-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.007;entryY=0.371;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="5bJ-HDxLkStqOs_OSQSf-1" target="5bJ-HDxLkStqOs_OSQSf-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="249" as="sourcePoint" />
+            <mxPoint x="320" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5bJ-HDxLkStqOs_OSQSf-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="5bJ-HDxLkStqOs_OSQSf-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="240" as="sourcePoint" />
+            <mxPoint x="770" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5bJ-HDxLkStqOs_OSQSf-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="5bJ-HDxLkStqOs_OSQSf-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="310" as="sourcePoint" />
+            <mxPoint x="770" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5bJ-HDxLkStqOs_OSQSf-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="5bJ-HDxLkStqOs_OSQSf-1" target="5bJ-HDxLkStqOs_OSQSf-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="450" as="sourcePoint" />
+            <mxPoint x="520" y="494" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5bJ-HDxLkStqOs_OSQSf-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5bJ-HDxLkStqOs_OSQSf-1" target="5bJ-HDxLkStqOs_OSQSf-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="110" as="sourcePoint" />
+            <mxPoint x="550" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5bJ-HDxLkStqOs_OSQSf-9" value="&lt;div&gt;выходы&lt;/div&gt;Output" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5bJ-HDxLkStqOs_OSQSf-1">
+          <mxGeometry x="690" y="265" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5bJ-HDxLkStqOs_OSQSf-10" value="входы Input" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5bJ-HDxLkStqOs_OSQSf-1">
+          <mxGeometry x="300" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5bJ-HDxLkStqOs_OSQSf-11" value="механизмы&lt;div&gt;M&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5bJ-HDxLkStqOs_OSQSf-1">
+          <mxGeometry x="520" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5bJ-HDxLkStqOs_OSQSf-12" value="контроль&lt;div&gt;C&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5bJ-HDxLkStqOs_OSQSf-1">
+          <mxGeometry x="520" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5bJ-HDxLkStqOs_OSQSf-13" value="стс часть1 планетарные ангелы &quot;ангелы&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5bJ-HDxLkStqOs_OSQSf-1">
+          <mxGeometry x="520" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5bJ-HDxLkStqOs_OSQSf-14" value="изделия" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5bJ-HDxLkStqOs_OSQSf-1">
+          <mxGeometry x="690" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5bJ-HDxLkStqOs_OSQSf-15" value="0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5bJ-HDxLkStqOs_OSQSf-1">
+          <mxGeometry x="610" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5bJ-HDxLkStqOs_OSQSf-16" value="прибыль" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5bJ-HDxLkStqOs_OSQSf-1">
+          <mxGeometry x="680" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5bJ-HDxLkStqOs_OSQSf-17" value="сырьё" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5bJ-HDxLkStqOs_OSQSf-1">
+          <mxGeometry x="300" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Bcoj-QzdRoqfnLjVLFNB" name="Страница — 5">
     <mxGraphModel dx="1112" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
