@@ -265,32 +265,50 @@
             <mxPoint x="560" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q_55WeRW58URjUbD753c-8" value="&lt;div&gt;выходы&lt;/div&gt;Output" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="255" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Q_55WeRW58URjUbD753c-9" value="входы Input" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="260" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Q_55WeRW58URjUbD753c-10" value="механизмы&lt;div&gt;M&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Q_55WeRW58URjUbD753c-10" value="механизмы&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q_55WeRW58URjUbD753c-11" value="контроль&lt;div&gt;C&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q_55WeRW58URjUbD753c-12" value="деятельность предпрятия" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="260" width="60" height="30" as="geometry" />
+        <mxCell id="Q_55WeRW58URjUbD753c-12" value="снятие ограничений на познание собственного опыта" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="150" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q_55WeRW58URjUbD753c-13" value="изделия" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="300" width="60" height="30" as="geometry" />
+        <mxCell id="Q_55WeRW58URjUbD753c-13" value="внетелесный опыт" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="230" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q_55WeRW58URjUbD753c-14" value="0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q_55WeRW58URjUbD753c-15" value="прибыль" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="200" width="60" height="30" as="geometry" />
+        <mxCell id="Q_55WeRW58URjUbD753c-15" value="новый опыт" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="200" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q_55WeRW58URjUbD753c-16" value="сырьё" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Q_55WeRW58URjUbD753c-16" value="свободная воля" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_55WeRW58URjUbD753c-17" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="245" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_55WeRW58URjUbD753c-18" value="намерение" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_55WeRW58URjUbD753c-19" value="фильтры внимания" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_55WeRW58URjUbD753c-20" value="способы восприятия" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_55WeRW58URjUbD753c-21" value="этол. предварительный эскиз" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="10" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_55WeRW58URjUbD753c-22" value="упорядочивание функций и функционала процесса познания с включением материала подсознания и бессознательного" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="50" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_55WeRW58URjUbD753c-23" value="высвобождение естественных возможностей сознания" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="245" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_55WeRW58URjUbD753c-24" value="техники медитации" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="480" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
