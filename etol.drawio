@@ -129,7 +129,7 @@
         <mxCell id="7b49MQ2IzC4sz-NR0neQ-11" value="контроль&lt;div&gt;C&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7b49MQ2IzC4sz-NR0neQ-12" value="деятельность предпрятия" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7b49MQ2IzC4sz-NR0neQ-12" value="специальные техники сновидений" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="320" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7b49MQ2IzC4sz-NR0neQ-13" value="изделия" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -203,7 +203,7 @@
         <mxCell id="gfC0WyPD5SXLBe3gWcSH-11" value="контроль&lt;div&gt;C&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="70" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gfC0WyPD5SXLBe3gWcSH-12" value="деятельность предпрятия" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gfC0WyPD5SXLBe3gWcSH-12" value="стс часть1 планетарные ангелы &quot;ангелы&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gfC0WyPD5SXLBe3gWcSH-13" value="изделия" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -284,13 +284,13 @@
           <mxGeometry x="690" y="200" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q_55WeRW58URjUbD753c-16" value="свободная воля" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="320" width="60" height="30" as="geometry" />
+          <mxGeometry x="310" y="245" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q_55WeRW58URjUbD753c-17" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="245" width="30" height="60" as="geometry" />
+          <mxGeometry x="200" y="240" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q_55WeRW58URjUbD753c-18" value="намерение" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="310" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q_55WeRW58URjUbD753c-19" value="фильтры внимания" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="450" width="60" height="30" as="geometry" />
@@ -309,6 +309,15 @@
         </mxCell>
         <mxCell id="Q_55WeRW58URjUbD753c-24" value="техники медитации" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_55WeRW58URjUbD753c-25" value="бытие событийног,реактивного толка&amp;nbsp; &amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="320" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_55WeRW58URjUbD753c-27" value="поэтапное формирование энергетической структуры индивидуального сознания" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="230" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_55WeRW58URjUbD753c-30" value="преобладание форм осознанного бытия" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="320" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
