@@ -406,7 +406,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ef9BPsDHhGccskgvPti2" name="Страница — 6">
-    <mxGraphModel dx="890" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1112" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -542,8 +542,8 @@
             <mxPoint x="630" y="150" as="sourcePoint" />
             <mxPoint x="590" y="260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="640" y="140" />
-              <mxPoint x="640" y="230" />
+              <mxPoint x="660" y="140" />
+              <mxPoint x="660" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -552,8 +552,8 @@
             <mxPoint x="680" y="140" as="sourcePoint" />
             <mxPoint x="680" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="640" y="140" />
-              <mxPoint x="640" y="320" />
+              <mxPoint x="660" y="140" />
+              <mxPoint x="660" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -565,8 +565,8 @@
             <mxPoint x="620" y="360" as="sourcePoint" />
             <mxPoint x="590" y="350" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="640" y="140" />
-              <mxPoint x="640" y="420" />
+              <mxPoint x="660" y="140" />
+              <mxPoint x="660" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
