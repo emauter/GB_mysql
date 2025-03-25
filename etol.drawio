@@ -600,12 +600,6 @@
         <mxCell id="m0U0eUWWSTZ2G_-tRS4i-47" value="24 качества&amp;nbsp;&lt;div&gt;по 4занятия&amp;nbsp;&lt;div&gt;&amp;nbsp;96 недель&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="384" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m0U0eUWWSTZ2G_-tRS4i-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="m0U0eUWWSTZ2G_-tRS4i-47">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="414" as="sourcePoint" />
-            <mxPoint x="850" y="364" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="m0U0eUWWSTZ2G_-tRS4i-49" value="8 тем*&lt;div&gt;по 2 занятия&amp;nbsp;&lt;/div&gt;&lt;div&gt;16 недель&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="290" width="120" height="60" as="geometry" />
         </mxCell>
