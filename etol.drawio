@@ -450,7 +450,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m0U0eUWWSTZ2G_-tRS4i-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0U0eUWWSTZ2G_-tRS4i-16" value="бессознательное" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="290" width="120" height="60" as="geometry" />
@@ -492,16 +492,16 @@
           <mxGeometry x="500" y="399" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m0U0eUWWSTZ2G_-tRS4i-27" value="12 тем*по 2 занятия 24 недели" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="215" width="60" height="30" as="geometry" />
+          <mxGeometry x="910" y="215" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m0U0eUWWSTZ2G_-tRS4i-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m0U0eUWWSTZ2G_-tRS4i-29" value="область" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="m0U0eUWWSTZ2G_-tRS4i-29" value="обрабатываем&lt;div&gt;материал&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="125" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m0U0eUWWSTZ2G_-tRS4i-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0U0eUWWSTZ2G_-tRS4i-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0U0eUWWSTZ2G_-tRS4i-22" target="m0U0eUWWSTZ2G_-tRS4i-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -510,7 +510,79 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m0U0eUWWSTZ2G_-tRS4i-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0U0eUWWSTZ2G_-tRS4i-33" value="анализ сценариев" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m0U0eUWWSTZ2G_-tRS4i-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0U0eUWWSTZ2G_-tRS4i-41" target="m0U0eUWWSTZ2G_-tRS4i-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="150" as="sourcePoint" />
+            <mxPoint x="590" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="140" />
+              <mxPoint x="640" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0U0eUWWSTZ2G_-tRS4i-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="140" as="sourcePoint" />
+            <mxPoint x="680" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="140" />
+              <mxPoint x="640" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0U0eUWWSTZ2G_-tRS4i-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0U0eUWWSTZ2G_-tRS4i-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0U0eUWWSTZ2G_-tRS4i-41" target="m0U0eUWWSTZ2G_-tRS4i-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="360" as="sourcePoint" />
+            <mxPoint x="590" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="140" />
+              <mxPoint x="640" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0U0eUWWSTZ2G_-tRS4i-38" value="энергетический анализ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="399" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m0U0eUWWSTZ2G_-tRS4i-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0U0eUWWSTZ2G_-tRS4i-40" value="наблюдаем проявления" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="125" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m0U0eUWWSTZ2G_-tRS4i-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0U0eUWWSTZ2G_-tRS4i-42" value="осваиваем навыки" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="125" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m0U0eUWWSTZ2G_-tRS4i-43" value="анализ состояний" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m0U0eUWWSTZ2G_-tRS4i-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0U0eUWWSTZ2G_-tRS4i-45" value="сроки" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="125" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m0U0eUWWSTZ2G_-tRS4i-46" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="399" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m0U0eUWWSTZ2G_-tRS4i-47" value="24 качества&amp;nbsp;&lt;div&gt;по 4занятия&amp;nbsp;&lt;div&gt;&amp;nbsp;96 недель&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0U0eUWWSTZ2G_-tRS4i-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="m0U0eUWWSTZ2G_-tRS4i-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="414" as="sourcePoint" />
+            <mxPoint x="850" y="364" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
